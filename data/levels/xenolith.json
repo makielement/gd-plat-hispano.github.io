@@ -7,5 +7,14 @@
     "verifier": "mariokirby1703",
     "verification": "https://www.youtube.com/watch?v=Of8xkMdSotk",
     "password": "gratis",
-    "records": []
+    "records": [
+     {
+            "user": "IvanCrafter026",
+            "device": "PC",
+            "time": "3:03.687",
+            "country": "España",
+            "link": "https://youtu.be/EZxbwRBfRR0",
+            "hz": 144
+        }
+    ]
 }
